@@ -1,0 +1,14 @@
+s = {
+	id = "1FE3878C-6CE7-42DA-B9CB-94408BC57695",
+	internalName = "Rover c-Soft",
+	title = "Rover c-Soft",
+	type = "Develop",
+	value = {
+		settings = {
+			Clarity2012 = -17,
+			ProcessVersion = "6.7",
+		},
+		uuid = "0050D6C1-F204-48A6-84E2-CEFBED81B34F",
+	},
+	version = 0,
+}

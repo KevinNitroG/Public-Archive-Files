@@ -1,0 +1,14 @@
+s = {
+	id = "464A7241-0CCC-4E31-9609-195D2C9A54F7",
+	internalName = "Rover c-Strong",
+	title = "Rover c-Strong",
+	type = "Develop",
+	value = {
+		settings = {
+			Clarity2012 = 25,
+			ProcessVersion = "6.7",
+		},
+		uuid = "96ED633B-AED3-41DD-B552-492AA7651B37",
+	},
+	version = 0,
+}

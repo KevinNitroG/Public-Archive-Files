@@ -1,0 +1,140 @@
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c140 79.160451, 2017/05/06-01:08:21        ">
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about=""
+    xmlns:crs="http://ns.adobe.com/camera-raw-settings/1.0/"
+   crs:PresetType="Normal"
+   crs:Cluster=""
+   crs:UUID="636B1A18C4421745923CE5D59E5A6BAA"
+   crs:SupportsAmount="False"
+   crs:SupportsColor="True"
+   crs:SupportsMonochrome="True"
+   crs:SupportsHighDynamicRange="True"
+   crs:SupportsNormalDynamicRange="True"
+   crs:SupportsSceneReferred="True"
+   crs:SupportsOutputReferred="True"
+   crs:CameraModelRestriction=""
+   crs:Copyright=""
+   crs:ContactInfo=""
+   crs:Version="12.0"
+   crs:ProcessVersion="5.7"
+   crs:WhiteBalance="Custom"
+   crs:Temperature="5500"
+   crs:Tint="-5"
+   crs:Exposure="+1.40"
+   crs:Shadows="0"
+   crs:Brightness="0"
+   crs:Contrast="-25"
+   crs:Saturation="0"
+   crs:Sharpness="0"
+   crs:LuminanceSmoothing="0"
+   crs:ColorNoiseReduction="25"
+   crs:VignetteAmount="0"
+   crs:ShadowTint="+10"
+   crs:RedHue="+25"
+   crs:RedSaturation="0"
+   crs:GreenHue="+75"
+   crs:GreenSaturation="+25"
+   crs:BlueHue="0"
+   crs:BlueSaturation="-100"
+   crs:FillLight="0"
+   crs:Vibrance="0"
+   crs:HighlightRecovery="70"
+   crs:Clarity="0"
+   crs:HueAdjustmentRed="0"
+   crs:HueAdjustmentOrange="0"
+   crs:HueAdjustmentYellow="0"
+   crs:HueAdjustmentGreen="0"
+   crs:HueAdjustmentAqua="0"
+   crs:HueAdjustmentBlue="0"
+   crs:HueAdjustmentPurple="0"
+   crs:HueAdjustmentMagenta="0"
+   crs:SaturationAdjustmentRed="-10"
+   crs:SaturationAdjustmentOrange="-15"
+   crs:SaturationAdjustmentYellow="-25"
+   crs:SaturationAdjustmentGreen="-45"
+   crs:SaturationAdjustmentAqua="-55"
+   crs:SaturationAdjustmentBlue="-50"
+   crs:SaturationAdjustmentPurple="-40"
+   crs:SaturationAdjustmentMagenta="-25"
+   crs:LuminanceAdjustmentRed="+5"
+   crs:LuminanceAdjustmentOrange="+15"
+   crs:LuminanceAdjustmentYellow="+10"
+   crs:LuminanceAdjustmentGreen="+5"
+   crs:LuminanceAdjustmentAqua="0"
+   crs:LuminanceAdjustmentBlue="0"
+   crs:LuminanceAdjustmentPurple="0"
+   crs:LuminanceAdjustmentMagenta="+5"
+   crs:SplitToningShadowHue="87"
+   crs:SplitToningShadowSaturation="5"
+   crs:SplitToningHighlightHue="225"
+   crs:SplitToningHighlightSaturation="25"
+   crs:SplitToningBalance="+10"
+   crs:ParametricShadows="0"
+   crs:ParametricDarks="0"
+   crs:ParametricLights="0"
+   crs:ParametricHighlights="0"
+   crs:ParametricShadowSplit="25"
+   crs:ParametricMidtoneSplit="50"
+   crs:ParametricHighlightSplit="75"
+   crs:SharpenRadius="+1.0"
+   crs:SharpenDetail="0"
+   crs:SharpenEdgeMasking="0"
+   crs:PostCropVignetteAmount="0"
+   crs:GrainAmount="20"
+   crs:GrainSize="100"
+   crs:GrainFrequency="30"
+   crs:ColorNoiseReductionDetail="50"
+   crs:ColorNoiseReductionSmoothness="50"
+   crs:LensManualDistortionAmount="0"
+   crs:AutoLateralCA="0"
+   crs:DefringePurpleAmount="0"
+   crs:DefringePurpleHueLo="30"
+   crs:DefringePurpleHueHi="70"
+   crs:DefringeGreenAmount="0"
+   crs:DefringeGreenHueLo="40"
+   crs:DefringeGreenHueHi="60"
+   crs:ConvertToGrayscale="False"
+   crs:OverrideLookVignette="False"
+   crs:ToneCurveName="Custom"
+   crs:CameraProfile="Adobe Standard"
+   crs:HasSettings="True"
+   crs:CropConstrainToWarp="0">
+   <crs:Name>
+    <rdf:Alt>
+     <rdf:li xml:lang="x-default">Tone 2</rdf:li>
+    </rdf:Alt>
+   </crs:Name>
+   <crs:ShortName>
+    <rdf:Alt>
+     <rdf:li xml:lang="x-default"/>
+    </rdf:Alt>
+   </crs:ShortName>
+   <crs:SortName>
+    <rdf:Alt>
+     <rdf:li xml:lang="x-default"/>
+    </rdf:Alt>
+   </crs:SortName>
+   <crs:Group>
+    <rdf:Alt>
+     <rdf:li xml:lang="x-default">Russian Style</rdf:li>
+    </rdf:Alt>
+   </crs:Group>
+   <crs:Description>
+    <rdf:Alt>
+     <rdf:li xml:lang="x-default"/>
+    </rdf:Alt>
+   </crs:Description>
+   <crs:ToneCurve>
+    <rdf:Seq>
+     <rdf:li>0, 0</rdf:li>
+     <rdf:li>47, 11</rdf:li>
+     <rdf:li>202, 206</rdf:li>
+     <rdf:li>242, 248</rdf:li>
+     <rdf:li>255, 255</rdf:li>
+    </rdf:Seq>
+   </crs:ToneCurve>
+   <crs:Look
+    crs:Name=""/>
+  </rdf:Description>
+ </rdf:RDF>
+</x:xmpmeta>

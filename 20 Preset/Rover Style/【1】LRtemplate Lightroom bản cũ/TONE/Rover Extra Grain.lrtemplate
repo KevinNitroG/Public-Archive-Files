@@ -1,0 +1,17 @@
+s = {
+	id = "64D39FA5-472C-4B7C-903E-9A345BEEDFD4",
+	internalName = "Rover Extra Grain",
+	title = "Rover Extra Grain",
+	type = "Develop",
+	value = {
+		settings = {
+			EnableEffects = true,
+			GrainAmount = 37,
+			GrainFrequency = 45,
+			GrainSize = 50,
+			ProcessVersion = "6.7",
+		},
+		uuid = "24525A01-B6F6-4757-A7AE-0A3B0B75220C",
+	},
+	version = 0,
+}

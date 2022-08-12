@@ -1,0 +1,17 @@
+s = {
+	id = "B3D06AA6-2044-4F13-B76F-4EA608D8D091",
+	internalName = "Rover No Grain",
+	title = "Rover No Grain",
+	type = "Develop",
+	value = {
+		settings = {
+			EnableEffects = true,
+			GrainAmount = 0,
+			GrainFrequency = 50,
+			GrainSize = 33,
+			ProcessVersion = "6.7",
+		},
+		uuid = "6EFB4051-C1E1-41CD-BFD9-A839EC955743",
+	},
+	version = 0,
+}

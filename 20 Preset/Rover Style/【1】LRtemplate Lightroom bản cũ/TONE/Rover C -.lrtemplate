@@ -1,0 +1,15 @@
+s = {
+	id = "80E2A1F0-3BF8-493A-A733-3D773B60C856",
+	internalName = "Rover C -",
+	title = "Rover C -",
+	type = "Develop",
+	value = {
+		settings = {
+			ConvertToGrayscale = false,
+			ProcessVersion = "6.7",
+			Saturation = -62,
+		},
+		uuid = "52287E60-FEBA-4136-831E-21A21E82E9FB",
+	},
+	version = 0,
+}

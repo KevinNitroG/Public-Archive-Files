@@ -1,0 +1,14 @@
+s = {
+	id = "3A576C90-13E7-4E36-88DA-B5D77E9223CC",
+	internalName = "Rover Contrast -",
+	title = "Rover Contrast -",
+	type = "Develop",
+	value = {
+		settings = {
+			Contrast2012 = -56,
+			ProcessVersion = "6.7",
+		},
+		uuid = "492AD3F7-2750-452A-A0E8-5211EEE90B42",
+	},
+	version = 0,
+}
